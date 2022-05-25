@@ -461,4 +461,6 @@ Test Here : https://Torrent-Api-py.ryukme.repl.co/api/v1/search?site=tgx&query=a
 
 #### You can fork the repo and deploy on VPS or deploy it on Heroku :)
 
+https://heroku.com/deploy?template=https://github.com/KedaiTube84/Tube-Api-py
+
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
